@@ -1,3 +1,5 @@
+//This is an optimised approach to tiktaktoe .
+//any improvement is appreciated.
 #include<stdio.h>
 #include<string.h>
 int main()
